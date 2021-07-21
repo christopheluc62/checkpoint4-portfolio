@@ -1,22 +1,11 @@
 import Shome from '../styledComponents/Shome';
+import Menu from '../components/Menu';
+import Smenu from '../styledComponents/Smenu';
 
 function Home() {
   return (
     <Shome>
-      <ul>
-        <li>
-          <a href='Parcours.jsx'>Mon parcours</a>
-        </li>
-        <li>
-          <a href='Competences.jsx'>Mes compétences</a>
-        </li>
-        <li>
-          <a href='Portfolio.jsx'>Portfolio</a>
-        </li>
-        <li>
-          <a href='Contact.jsx'>Me contacter</a>
-        </li>
-      </ul>
+      <Menu />
       <div className='presentation'>
         <img src='christophe.jpeg' alt='christophe' className='photo' />
         <h1>Christophe LUC</h1>

@@ -1,8 +1,11 @@
 import Sparcours from '../styledComponents/Sparcours';
+import Menu from '../components/Menu';
+import Smenu from '../styledComponents/Smenu';
 
 function Parcours() {
   return (
     <Sparcours>
+      <Menu />
       <h1>Mon parcours</h1>
       <p>
         Après avoir exercé le métier de technicien chimiste pendant 20ans, j'ai

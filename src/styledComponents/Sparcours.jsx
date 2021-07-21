@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const Sparcours = styled.div`
-  background-color: #2c3f66;
+  background-color: #38c2c7;
 
   .cv {
     height: 1200px;

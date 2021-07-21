@@ -4,28 +4,6 @@ const Shome = styled.div`
   background-image: url('background.webp');
   background-size: cover;
 
-  ul {
-    background: #2c3f66;
-    display: flex;
-    justify-content: space-around;
-    padding: 25px;
-  }
-
-  ul li {
-    list-style: none;
-    font-size: 20px;
-    font-weight: 800;
-  }
-
-  ul li a {
-    color: white;
-    text-decoration: none;
-  }
-
-  ul li a:hover {
-    color: rgb(8, 2, 27);
-  }
-
   h1 {
     color: white;
     font-size: 50px;
