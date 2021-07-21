@@ -1,6 +1,5 @@
 import Sparcours from '../styledComponents/Sparcours';
 import Menu from '../components/Menu';
-import Smenu from '../styledComponents/Smenu';
 
 function Parcours() {
   return (

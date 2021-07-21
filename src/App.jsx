@@ -11,6 +11,9 @@ function App() {
     <div className='App'>
       <Router>
         <Switch>
+          <Route exact path='/'>
+            <Home />
+          </Route>
           <Route path='/Home.jsx' component={Home} />
           <Route path='/Parcours.jsx' component={Parcours} />
           <Route path='/Competences.jsx' component={Competences} />

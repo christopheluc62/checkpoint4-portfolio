@@ -1,6 +1,5 @@
 import Shome from '../styledComponents/Shome';
 import Menu from '../components/Menu';
-import Smenu from '../styledComponents/Smenu';
 
 function Home() {
   return (
