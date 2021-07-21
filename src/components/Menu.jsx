@@ -5,6 +5,9 @@ function Menu() {
     <Smenu>
       <ul>
         <li>
+          <a href='Home.jsx'>Accueil</a>
+        </li>
+        <li>
           <a href='Parcours.jsx'>Mon parcours</a>
         </li>
         <li>
