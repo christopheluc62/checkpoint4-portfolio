@@ -17,6 +17,11 @@ function Home() {
           <a href='Contact.jsx'>Me contacter</a>
         </li>
       </ul>
+      <div className='presentation'>
+        <img src='christophe.jpeg' alt='christophe' className='photo' />
+        <h1>Christophe LUC</h1>
+        <h2>Développeur Web Junior</h2>
+      </div>
     </Shome>
   );
 }
