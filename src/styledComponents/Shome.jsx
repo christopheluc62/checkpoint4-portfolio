@@ -42,6 +42,11 @@ const Shome = styled.div`
     width: 200px;
     height: 200px;
     margin-top: 200px;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
     :hover {
       transform: scale(1.2);
     }

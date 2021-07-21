@@ -22,6 +22,7 @@ function Home() {
         <h1>Christophe LUC</h1>
         <h2>Développeur Web Junior</h2>
       </div>
+      <div className='reseaux'></div>
     </Shome>
   );
 }
