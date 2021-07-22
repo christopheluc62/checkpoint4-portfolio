@@ -14,6 +14,19 @@ const Scompetences = styled.div`
     font-size: 30px;
     color: white;
   }
+
+  .bulles {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .bulle {
+    border: 5px solid black;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+  }
 `;
 
 export default Scompetences;
