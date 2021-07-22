@@ -21,11 +21,14 @@ const Scompetences = styled.div`
   }
 
   .bulle {
-    border: 5px solid black;
+    background-color: black;
+    color: white;
     border-radius: 50%;
     width: 150px;
-    height: 150px;
+    height: 80px;
     text-align: center;
+    padding-top: 70px;
+    margin-bottom: 20px;
   }
 `;
 
